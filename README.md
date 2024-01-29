@@ -1,1 +1,1 @@
-# Machine-Learning-Capstone-Project
+This is a Recommendation System project. The main goal of this project is to help in finding better courses in which that it suits his/her preferences. As well as, to help users to find courses to recommend based on their interests & the type of courses they are already enrolled in.
